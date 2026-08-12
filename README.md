@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Summary:
 Full-stack Software Engineer with 5+ years of experience building scalable SaaS platforms, dashboards, and cross-platform applications with JavaScript, TypeScript, Angular, Node.js, and .NET. Experienced designing secure authentication flows (JWT with refresh-token rotation), role-based access control, and RESTful/GraphQL APIs, with a strong focus on database schema design, query optimization, and third-party integrations (Stripe, Twilio, Google Maps, Melissa Data). Comfortable owning a feature end-to-end, from database design through deployment on AWS and Azure.
 
 
